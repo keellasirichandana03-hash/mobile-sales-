@@ -1,0 +1,71 @@
+﻿sale_id,mobile_model,brand,price,quantity,sale_date,customer_name,payment_method,city,rating
+5001,iPhone 13,Apple,70000,1,01-01-2024,Ramesh,UPI,Hyderabad,5
+5002,Galaxy S21,Samsung,65000,2,02-01-2024,Sita,Cash,hyd,4
+5003,Redmi Note 10,Xiaomi,abc,1,03-Jan-24,Arjun,Card,Mumbai,3
+5004,Nord CE,OnePlus,30000,1,04-01-2024,Kavya,UPI,Bangalore,5
+5005,NULL,NULL,25000,2,05-01-2024,NULL,Cash,BLR,2
+5006,iPhone 12,Apple,60000,1,06-01-2024,Deepak,UPI,Hyderabad,5
+5007,Galaxy A50,Samsung,20000,3,07-01-2024,Priya,Card,Chennai,4
+5008,Redmi 9,Xiaomi,15000,2,08-01-2024,Rahul,UPI,Chennai,3
+5009,Vivo V20,Vivo,-20000,1,09-01-2024,Sneha,Cash,Mumbai,2
+5010,Oppo F19,Oppo,22000,1,10-01-2024,Amit,UPI,mumbai,abc
+5011,iPhone 13,Apple,70000,1,01-01-2024,Ramesh,UPI,Hyderabad,5
+5012,iPhone 11,Apple,50000,2,11-01-2024,Anu,Card,Hyderabad,4
+5013,empty,NULL,abc,NULL,future_date,NULL,NULL,unknown,???
+5014,Galaxy M31,Samsung,18000,1,13-01-2024,Deepak@,UPI,Hyderabad,4
+5015,Redmi Note 8,Xiaomi,12000,2,14-01-2024,Sita!,Cash,Hyderabad,3
+5016,OnePlus 9,OnePlus,45000,1,15-01-2024,Ravi,UPI,hyd,5
+5017,Vivo Y20,Vivo,14000,2,16-01-2024,Kavita,Card,Bangalore,3
+5018,Oppo A15,Oppo,10000,3,17-01-2024,Varun,Cash,BLR,2
+5019,NULL,NULL,15000,1,18-01-2024,NULL,UPI,Bangalore,1
+5020,iPhone XR,Apple,40000,1,19-01-2024,Pooja,UPI,Chennai,4
+5021,NULL,abc,-500,2,99-99-2024,???,???,???,???
+5022, ,-12345,-100,0,00-00-0000,NA,NA,delhi,NA
+5023,Nokia 6,Nokia,15000,1,20-01-2024,Raj123,Cash,Delhi,3
+5024,Moto G40,Motorola,20000,1,21-01-2024,@Kiran,UPI,Delhi,4
+5025,Realme 8,Realme,18000,2,22-01-2024,##Sneha,Card,Delhi,5
+5026,iPhone 14,Apple,80000,1,23-01-2024,Amit,Cash,Delhi,5
+5027,Redmi 10,Xiaomi,16000,2,NULL,Pooja,UPI,Delhi,4
+5028,Galaxy S20,Samsung,60000,1,NULL,Varun,Card,Delhi,3
+5029,Nord 2,OnePlus,35000,1,24-01-2024,Kavya,UPI,Delhi,4
+5030,Vivo V25,Vivo,28000,1,25-01-2024,Rahul,Cash,Delhi,5
+5031,Oppo Reno 6,Oppo,30000,1,26-01-2024,Teja,UPI,Hyderabad,4
+5032,iPhone 12,Apple,60000,1,27-01-2024,Nikhil,UPI,Hyderabad,5
+5033,Galaxy A72,Samsung,35000,2,28-01-2024,Swathi,Card,Hyderabad,4
+5034,Redmi Note 11,Xiaomi,18000,2,29-01-2024,Harsha,Cash,Hyderabad,3
+5035,Realme Narzo,Realme,15000,3,30-01-2024,Keerthi,UPI,Hyderabad,4
+5036,Moto E7,Motorola,10000,1,31-01-2024,Madhu,Cash,Hyderabad,2
+5037,Nokia 5,Nokia,12000,1,01-02-2024,Gopi,UPI,Hyderabad,3
+5038,iPhone 13,Apple,70000,1,02-02-2024,Divya,UPI,Hyderabad,5
+5039,Galaxy S22,Samsung,75000,1,03-02-2024,Naveen,Cash,Hyderabad,5
+5040,Redmi 12,Xiaomi,17000,2,04-02-2024,Ajay,UPI,Hyderabad,3
+5041,Realme C25,Realme,13000,2,05-02-2024,Karthik,Cash,Hyderabad,3
+5042,Oppo A54,Oppo,14000,2,06-02-2024,Meena,UPI,hyd,4
+5043,Moto G60,Motorola,20000,1,07-Feb-24,Raju,Card,Hyderabad,4
+5044,Nokia 8,Nokia,25000,1,08-02-2024,Anil,UPI,Hyderabad,5
+5045,iPhone 15,Apple,90000,1,09-02-2024,Sunita,Cash,Bangalore,5
+5046,NULL,NULL,30000,1,10-02-2024,NULL,UPI,BLR,1
+5047,Galaxy M51,Samsung,25000,-1,11-02-2024,Rakesh,Cash,Bangalore,2
+5048,Redmi 11,Xiaomi,18000,2,12-02-2024,Pavan,UPI,Chennai,abc
+5049,Vivo X60,Vivo,40000,1,13-02-2024,Lakshmi,Cash,Chennai,4
+5050,Oppo F21,Oppo,22000,1,NULL,Harini,UPI,Chennai,3
+5051,empty,NULL,abc,NULL,future_date,NULL,NULL,???,???
+5052, ,-123456,-50,0,99-99-2024,NA,NA,delhi,NA
+5053,iPhone SE,Apple,30000,1,14-02-2024,Raj@123,UPI,Delhi,4
+5054,Galaxy F41,Samsung,20000,1,15-02-2024,@Anu,Card,Delhi,3
+5055,Realme GT,Realme,35000,1,16-02-2024,##Kiran,UPI,Delhi,5
+5056,OnePlus 10,OnePlus,50000,1,17-02-2024,Amit,Cash,Delhi,5
+5057,Vivo Y33,Vivo,16000,2,NULL,Pooja,UPI,Delhi,4
+5058,Oppo A16,Oppo,14000,2,NULL,Varun,Cash,Delhi,3
+5059,Moto G31,Motorola,15000,1,18-02-2024,Kavya,UPI,Delhi,4
+5060,Nokia 3,Nokia,9000,2,19-02-2024,Rahul,Cash,Delhi,2
+5061,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5062,TestUser,123,Test,TestCity,TestDate,Test,Test,Test,Test
+5063,Dummy,0,NA,NA,NA,NA,NA,NA,0
+5064,Unknown,-1,???,???,???,???,???,???,-999
+5065,iPhone 13,Apple,70000,1,01-03-2024,Ravi,UPI,Hyderabad,5
+5066,Galaxy S21,Samsung,65000,1,02-03-2024,Sita,Cash,Hyderabad,4
+5067,Redmi Note 10,Xiaomi,18000,2,03-03-2024,Arjun,UPI,Hyderabad,3
+5068,Nord CE,OnePlus,30000,1,04-03-2024,Kavya,UPI,Hyderabad,5
+5069,Vivo V21,Vivo,25000,1,05-03-2024,Deepak,Cash,Hyderabad,4
+5070,Oppo F17,Oppo,20000,1,06-03-2024,Priya,UPI,Hyderabad,3
