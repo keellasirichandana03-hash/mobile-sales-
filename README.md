@@ -54,3 +54,12 @@ The dataset contains:
 ## Project Files
 - `mobile_sales_data.csv`
 - `sql_queries.sql`
+
+
+## Project Output
+<img width="922" height="440" alt="image" src="https://github.com/user-attachments/assets/9916fe5f-3ff8-475f-898d-0727f8df460f" />
+
+<img width="900" height="443" alt="image" src="https://github.com/user-attachments/assets/7758f614-f03e-4e97-bf69-f6f979daf586" />
+
+<img width="896" height="438" alt="image" src="https://github.com/user-attachments/assets/fa7d264b-5f89-4136-a177-4df06604def2" />
+
